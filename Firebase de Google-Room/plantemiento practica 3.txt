@@ -1,0 +1,13 @@
+# Desarrollo de la práctica del Tema 2
+
+Para la realización de esta práctica he desarrollado el proyecto propuesto en las diapositivas del tema 2 utilizando Android Studio. El objetivo principal ha sido comprender y aplicar los conceptos relacionados con la interfaz de usuario, la persistencia de datos y la navegación entre pantallas.
+
+En primer lugar, he creado la estructura básica del proyecto siguiendo las indicaciones proporcionadas en el material de clase. Posteriormente, he diseñado la interfaz de usuario mediante los componentes vistos durante el curso, organizando las distintas pantallas y asegurando una navegación correcta entre ellas.
+
+A continuación, he implementado la gestión de datos utilizando una base de datos local mediante Room. Para ello, he definido las entidades necesarias, los DAO y la base de datos correspondiente. También he realizado pruebas de inserción, consulta, actualización y eliminación de registros para comprobar su correcto funcionamiento. En los apartados donde ha sido necesario, he revisado la alternativa de persistencia mediante Firebase para comprender las diferencias entre almacenamiento local y almacenamiento en la nube.
+
+Respecto a la navegación, he configurado los componentes necesarios para permitir el desplazamiento entre las diferentes vistas de la aplicación, verificando que el flujo de uso sea correcto y que la información se mantenga adecuadamente durante la ejecución.
+
+Durante el desarrollo he realizado diversas pruebas para detectar y corregir errores de compilación y ejecución. Estas comprobaciones me han permitido validar que todas las funcionalidades implementadas funcionan según lo esperado.
+
+Como resultado final, he obtenido una aplicación funcional que integra interfaz de usuario, persistencia de datos y navegación, cumpliendo los requisitos establecidos en el enunciado. La realización de esta práctica me ha permitido reforzar los conocimientos adquiridos en clase y comprender mejor la estructura y el funcionamiento de una aplicación Android basada en los componentes estudiados.
